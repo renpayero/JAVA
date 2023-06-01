@@ -1,0 +1,6 @@
+Para usar el patron State, como solucion, tendriamos que crear las clases con los distintos estados
+posibles de las bicicletas. Entonces al momento de usar una bici, delegamos la operacion al estado,
+entonces podremos ver si esta apta para usarse, o si no se puede usar.
+
+
+De: Agustin Bascoy

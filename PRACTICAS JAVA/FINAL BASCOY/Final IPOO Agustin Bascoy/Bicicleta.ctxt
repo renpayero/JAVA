@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bicicleta
+comment1.params=
+comment1.target=boolean\ liberar()
+comment2.params=
+comment2.target=boolean\ disponible()
+comment3.params=
+comment3.target=boolean\ ocupar()
+numComments=4

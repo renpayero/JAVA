@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sistema
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s
+comment2.target=void\ ocuparBici(Bicicleta)
+comment3.params=a
+comment3.target=void\ liberarBici(Bicicleta)
+numComments=4
