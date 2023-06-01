@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestSerologico
+comment1.params=persona\ fecha\ muestra
+comment1.target=TestSerologico(Persona,\ java.util.Date,\ Muestra)
+comment2.params=
+comment2.target=double\ tiempo()
+comment3.params=
+comment3.target=Muestra\ getMuestra()
+comment4.params=muestra
+comment4.target=void\ setMuestra(Muestra)
+comment5.params=valor
+comment5.target=int\ sumarSerologico(int)
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getTipo()
+comment1.params=tipo
+comment1.target=void\ setTipo(int)
+comment2.params=
+comment2.target=int\ getEstado()
+comment3.params=estado
+comment3.target=void\ setEstado(int)
+comment4.params=
+comment4.target=void\ evento()
+numComments=5

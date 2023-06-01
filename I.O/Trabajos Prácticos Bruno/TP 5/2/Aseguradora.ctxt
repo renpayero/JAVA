@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aseguradora
+comment1.params=unaPoliza
+comment1.target=double\ montoAPagarDe(Poliza)
+comment2.params=
+comment2.target=double\ montoTotalAsegurado()
+comment3.params=
+comment3.target=double\ montoTotalACobrar()
+comment4.params=a\ n
+comment4.target=void\ asegurarAutoTotal(Auto,\ java.lang.String)
+comment5.params=
+comment5.target=int\ cantPolizas()
+numComments=6

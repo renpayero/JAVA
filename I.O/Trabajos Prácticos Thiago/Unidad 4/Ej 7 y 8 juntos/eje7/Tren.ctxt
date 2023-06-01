@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tren()
+comment1.params=locomotora
+comment1.target=void\ setLocomotora(Locomotora)
+comment2.params=
+comment2.target=Locomotora\ getLocomotora()
+comment3.params=v
+comment3.target=void\ agregarVagon(Vagon)
+comment4.params=v
+comment4.target=void\ borrarVagon(Vagon)
+comment5.params=
+comment5.target=int\ pesoTotalDelTren()
+comment6.params=misVagones
+comment6.target=int\ pesoVagones(java.util.Vector)
+comment7.params=otrosVagones
+comment7.target=boolean\ puedeMover(java.util.Vector)
+comment8.params=
+comment8.target=int\ cantPasajeros()
+comment9.params=
+comment9.target=float\ velocidadMaxima()
+numComments=10

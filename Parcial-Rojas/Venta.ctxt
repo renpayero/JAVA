@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Venta
+comment1.params=fecha
+comment1.target=void\ setFecha(java.util.Date)
+comment2.params=
+comment2.target=java.util.Date\ getFecha()
+comment3.params=
+comment3.target=float\ getMonto()
+numComments=4

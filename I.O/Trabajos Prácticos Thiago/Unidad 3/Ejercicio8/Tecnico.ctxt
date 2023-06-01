@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tecnico
+comment1.params=montoContrato
+comment1.target=void\ setMontoContrato(float)
+comment2.params=
+comment2.target=float\ sueldo()
+numComments=3

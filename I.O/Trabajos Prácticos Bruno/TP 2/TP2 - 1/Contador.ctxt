@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Contador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Contador\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ iniciar()
+comment2.params=n
+comment2.target=void\ iniciar(int)
+comment3.params=
+comment3.target=void\ sumar()
+comment4.params=
+comment4.target=void\ restar()
+comment5.params=n
+comment5.target=void\ suma(int)
+comment6.params=n
+comment6.target=void\ restar(int)
+numComments=7

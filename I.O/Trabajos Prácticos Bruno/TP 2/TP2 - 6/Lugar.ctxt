@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Lugar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lugar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pais
+comment1.target=void\ setPais(java.lang.String)
+comment10.params=
+comment10.target=int\ getNumero()
+comment2.params=
+comment2.target=java.lang.String\ getPais()
+comment3.params=provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getProvincia()
+comment5.params=ciudad
+comment5.target=void\ setCiudad(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getCiudad()
+comment7.params=direccion
+comment7.target=void\ setDireccion(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDireccion()
+comment9.params=numero
+comment9.target=void\ setNumero(int)
+numComments=11

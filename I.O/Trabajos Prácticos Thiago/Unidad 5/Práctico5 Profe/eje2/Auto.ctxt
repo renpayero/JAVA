@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getMarca()
+comment1.params=marca
+comment1.target=void\ setMarca(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getModelo()
+comment3.params=modelo
+comment3.target=void\ setModelo(java.lang.String)
+comment4.params=
+comment4.target=float\ getPrecio()
+comment5.params=precio
+comment5.target=void\ setPrecio(float)
+numComments=6

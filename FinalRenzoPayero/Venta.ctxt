@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Venta
+comment1.params=medioDePago
+comment1.target=void\ setMedioDePago(medioDePago)
+comment10.params=juegos
+comment10.target=void\ setJuegos(Juego)
+comment11.params=
+comment11.target=int\ getMonto()
+comment12.params=monto
+comment12.target=void\ setMonto(int)
+comment2.params=
+comment2.target=medioDePago\ getMedioDePago()
+comment3.params=
+comment3.target=Usuario\ getUser()
+comment4.params=user
+comment4.target=void\ setUser(Usuario)
+comment5.params=
+comment5.target=java.util.Date\ getFecha()
+comment6.params=fecha
+comment6.target=void\ setFecha(java.util.Date)
+comment7.params=
+comment7.target=float\ getPrecio()
+comment8.params=precio
+comment8.target=void\ setPrecio(float)
+comment9.params=
+comment9.target=java.util.ArrayList\ getJuegos()
+numComments=13

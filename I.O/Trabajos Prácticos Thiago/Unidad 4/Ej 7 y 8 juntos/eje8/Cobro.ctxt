@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.Date\ getFecha()
+comment1.params=fecha
+comment1.target=void\ setFecha(java.util.Date)
+comment2.params=
+comment2.target=Bien\ getBien()
+comment3.params=bien
+comment3.target=void\ setBien(Bien)
+comment4.params=
+comment4.target=float\ montoAPagar()
+comment5.params=auto
+comment5.target=float\ montoAPagarBien(Auto)
+numComments=6

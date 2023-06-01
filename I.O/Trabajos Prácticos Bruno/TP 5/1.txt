@@ -1,0 +1,2 @@
+La Refactorización es una limpieza de código que no cambia el comportamiento de dicho código.
+El proceso de cambiar un sistema de software de tal manera que no altera el comportamiento exterior del código pero mejora su estructura interna. Es una forma disciplinada de limpiar código que minimiza las posibilidades de introducir un error. En esencia, cuando refactorizas, estás mejorando el diseño del código después de que fue escrito.

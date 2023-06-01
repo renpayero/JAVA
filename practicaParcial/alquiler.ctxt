@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=alquiler
+comment1.params=pelicula
+comment1.target=void\ setPelicula(peliculas)
+comment2.params=socio
+comment2.target=void\ setSocios(socios)
+comment3.params=monto
+comment3.target=void\ setMonto(double)
+comment4.params=
+comment4.target=double\ getMonto()
+comment5.params=devuelta
+comment5.target=void\ setDevuelta(boolean)
+comment6.params=
+comment6.target=boolean\ getDevuelta()
+numComments=7

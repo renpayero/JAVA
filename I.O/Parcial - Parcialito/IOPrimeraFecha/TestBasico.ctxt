@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestBasico
+comment1.params=persona\ fecha
+comment1.target=TestBasico(Persona,\ java.util.Date)
+comment2.params=
+comment2.target=double\ tiempo()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CajaEuros
+comment1.params=
+comment1.target=CajaEuros()
+comment2.params=
+comment2.target=double\ getTotalEuros()
+comment3.params=euros
+comment3.target=void\ sacarEuros(double)
+comment4.params=euros
+comment4.target=void\ ingresarEuros(double)
+numComments=5

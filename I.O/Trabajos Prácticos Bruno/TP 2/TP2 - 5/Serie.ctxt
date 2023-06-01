@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Serie
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Serie\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=unaSerie
+comment1.target=void\ setUnaSerie(Film)
+comment2.params=
+comment2.target=Film\ getUnaSerie()
+comment3.params=unCapitulo
+comment3.target=void\ setUnCapitulo(Capitulo)
+comment4.params=
+comment4.target=Capitulo\ getUnCapitulo()
+comment5.params=unDirector
+comment5.target=void\ setUnDirector(Director)
+comment6.params=
+comment6.target=Director\ getUnDirector()
+comment7.params=unActor
+comment7.target=void\ setUnActor(Actor)
+comment8.params=
+comment8.target=Actor\ getUnActor()
+numComments=9

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=nombrePersona
+comment1.target=void\ setNombrePersona(java.lang.String)
+comment2.params=edadPersona
+comment2.target=void\ edadPersona(int)
+comment3.params=nameUser
+comment3.target=void\ setNameUser(java.lang.String)
+comment4.params=juego
+comment4.target=void\ addJuego(Juego)
+comment5.params=juego
+comment5.target=void\ removeJuego(Juego)
+comment6.params=
+comment6.target=java.util.ArrayList\ getJuegos()
+comment7.params=
+comment7.target=int\ cantidadJuegos()
+comment8.params=
+comment8.target=float\ getDescuento()
+numComments=9

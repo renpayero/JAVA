@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Institucion
+comment1.params=localidad
+comment1.target=Institucion(Localidad)
+comment2.params=tecnicos
+comment2.target=void\ setTecnicos(java.util.Vector)
+comment3.params=
+comment3.target=java.util.Vector\ getResultados()
+comment4.params=resultados
+comment4.target=void\ setResultados(java.util.Vector)
+comment5.params=
+comment5.target=java.util.Vector\ getTecnicos()
+comment6.params=
+comment6.target=Localidad\ getLocalidad()
+comment7.params=localidad
+comment7.target=void\ setLocalidad(Localidad)
+numComments=8

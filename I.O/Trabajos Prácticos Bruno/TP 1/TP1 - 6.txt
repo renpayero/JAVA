@@ -1,0 +1,28 @@
+CLASE
+
+Es una plantilla para la creación objetos de datos según un modelo predefinido. Se utilizan para representar entidades o conceptos. Cada clase es un modelo que define un conjunto de variables, el estado y los métodos apropiados para operar con dichos datos.
+
+MENSAJE
+
+Es una petición enviada a un objeto para que este se comporte de una determinada manera, realizando una de sus operaciones. En respuesta al mensaje, el receptor se comportará  de una detemrinada forma.
+
+MÉTODO
+
+Es una subrutina suyo código es definido en una clase y puede pertenecer tanto a una clase, como es el caso de los métodos de clase o estáticos, como un objeto, como es el caso de los métodos de instancia.
+
+ATRIBUTO
+
+Son las características individuales que diferencian un objeto de otro y determinan su apariencia, estado u otras cualidades. Los atributos se guardan en variables denominada instancia, y cada objeto particular puede tener valores distintos para estas variables. Las variables de instancia también denominados miembros dato, son declaradas en la clase pero sus valores son fijados y cambiados en el objeto. Además de las variables de instancia hay variables de clase, las cuales se aplican a la clase y a todas sus instancias.
+
+ABSTRACCIÓN
+
+Consiste en expresar las características esenciales de un objeto, las cuales distinguen al objeto de los demás. La abstracción ofrecida por los lenguajes de programación se puede dividir en dos categorías: abstracción de datos (pertenecientes a los datos) y abstracción de control (perteneciente a las estructuras de control).
+
+ENCAPSULAMIENTO
+
+Se denomina encapsulamiento al ocultamiento del estado, es decir, de los datos miembro de un objeto de manera que solo se pueda cambiar mediante las operaciones definidas para ese objeto.
+Cada objeto está aislado del exterior, es un módulo natural, y la aplicación entera se reduce a un agregado o rompecabezas de objetos. El aislamiento protege a los datos asociados de un objeto contra su modificación por quien no tenga derecho a acceder a ellos, eliminando efectos secundarios e interacciones.
+
+POLIMORFISMO
+
+Se refiere a la propiedad por la que es posible enviar mensajes sintácticamente iguales a objetos de tipos distintos. El único requisito que deben cumplir los objetos que se utilizan de manera polimórfica es saber responder al mensaje que se les envía.

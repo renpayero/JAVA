@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Electrica
+comment1.params=velocidadMaxima\ potencia
+comment1.target=Electrica(float,\ int)
+comment2.params=
+comment2.target=int\ getConsumo()
+numComments=3

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=id\ rol
+comment0.target=Empleado(int,\ Rol)
+comment1.params=id
+comment1.target=void\ setId(int)
+comment10.params=
+comment10.target=int\ antiguedad()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=rol
+comment3.target=void\ setRol(Rol)
+comment4.params=
+comment4.target=Rol\ getRol()
+comment5.params=titulo
+comment5.target=void\ setTitulo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTitulo()
+comment7.params=fechaIngreso
+comment7.target=void\ setFechaIngreso(java.util.Date)
+comment8.params=
+comment8.target=java.util.Date\ getFechaIngreso()
+comment9.params=
+comment9.target=double\ calcularSalario()
+numComments=11

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tanque
+comment1.params=capAct\ capMax
+comment1.target=Tanque(int,\ int)
+comment2.params=cap
+comment2.target=void\ setCapAct(int)
+comment3.params=
+comment3.target=int\ getCapAct()
+comment4.params=cap
+comment4.target=void\ setCapMax(int)
+comment5.params=
+comment5.target=int\ getCapMax()
+comment6.params=
+comment6.target=double\ capacidadDisponible()
+comment7.params=c\ lista
+comment7.target=void\ tanqueCombustibleMenorA(int,\ java.util.List)
+numComments=8

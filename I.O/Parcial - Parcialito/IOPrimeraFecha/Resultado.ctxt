@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Resultado
+comment1.params=test\ institucion\ positivo
+comment1.target=Resultado(Test,\ Institucion,\ boolean)
+comment10.params=
+comment10.target=double\ getTiempo()
+comment11.params=valor
+comment11.target=int\ getTotalSerologicos(int)
+comment2.params=
+comment2.target=boolean\ isPositivo()
+comment3.params=positivo
+comment3.target=void\ setPositivo(boolean)
+comment4.params=
+comment4.target=Test\ getTest()
+comment5.params=test
+comment5.target=void\ setTest(Test)
+comment6.params=
+comment6.target=Institucion\ getInstitucion()
+comment7.params=institucion
+comment7.target=void\ setInstitucion(Institucion)
+comment8.params=
+comment8.target=java.util.Date\ getFecha()
+comment9.params=fecha
+comment9.target=void\ setFecha(java.util.Date)
+numComments=12

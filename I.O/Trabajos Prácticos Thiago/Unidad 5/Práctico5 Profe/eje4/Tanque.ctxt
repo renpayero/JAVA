@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=float\ getCapMaxima()
+comment1.params=capMaxima
+comment1.target=void\ setCapMaxima(float)
+comment2.params=
+comment2.target=float\ getCapActual()
+comment3.params=capActual
+comment3.target=void\ setCapActual(float)
+comment4.params=
+comment4.target=java.lang.String\ getNumero()
+comment5.params=numero
+comment5.target=void\ setNumero(java.lang.String)
+comment6.params=
+comment6.target=java.util.Date\ getFechaFuncionamiento()
+comment7.params=fechaFuncionamiento
+comment7.target=void\ setFechaFuncionamiento(java.util.Date)
+comment8.params=
+comment8.target=float\ capacidadDisponiblew()
+comment9.params=tanques\ cantidad
+comment9.target=void\ tanquesCombustibleMenorA(java.util.List,\ int)
+numComments=10

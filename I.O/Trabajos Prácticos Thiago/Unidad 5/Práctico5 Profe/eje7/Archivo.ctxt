@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getPeso()
+comment1.params=peso
+comment1.target=void\ setPeso(int)
+numComments=2

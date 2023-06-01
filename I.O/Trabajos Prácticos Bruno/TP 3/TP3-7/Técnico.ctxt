@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=T\u00E9cnico
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ T\u00E9cnico\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=montoContrato
+comment1.target=void\ setMontoContrato(float)
+comment2.params=
+comment2.target=float\ getMontoContrato()
+comment3.params=
+comment3.target=float\ sueldo()
+numComments=4

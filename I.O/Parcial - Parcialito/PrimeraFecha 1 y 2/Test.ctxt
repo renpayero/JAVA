@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment1.params=
+comment1.target=int\ tiempo()
+comment2.params=
+comment2.target=Persona\ getPersona()
+comment3.params=p
+comment3.target=void\ setPersona(Persona)
+comment4.params=
+comment4.target=boolean\ esSerologico1()
+comment5.params=
+comment5.target=int\ esSerologico2()
+comment6.params=t
+comment6.target=int\ contarSerologico(int)
+numComments=7

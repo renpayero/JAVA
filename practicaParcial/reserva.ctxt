@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=reserva
+comment1.params=
+comment1.target=peliculas\ getPelicula()
+comment1.text=GET\ Method\ Propertie\ pelicula
+comment2.params=pelicula
+comment2.target=void\ setPelicula(peliculas)
+comment2.text=SET\ Method\ Propertie\ pelicula
+comment3.params=
+comment3.target=socios\ getSocio()
+comment3.text=GET\ Method\ Propertie\ socio
+comment4.params=socio
+comment4.target=void\ setSocio(socios)
+comment4.text=SET\ Method\ Propertie\ socio
+comment5.params=
+comment5.target=java.util.Date\ getFechaDeReserva()
+comment5.text=GET\ Method\ Propertie\ fechaDeReserva
+comment6.params=fechaDeReserva
+comment6.target=void\ setFechaDeReserva(java.util.Date)
+comment6.text=SET\ Method\ Propertie\ fechaDeReserva
+numComments=7

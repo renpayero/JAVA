@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=nombre\ dni\ direccion\ fechaNacimiento\ fechaIngreso\ localidad
+comment1.target=Paciente(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.Date,\ java.util.Date,\ Localidad)
+comment2.params=
+comment2.target=java.util.Date\ getFechaIngreso()
+comment3.params=fechaIngreso
+comment3.target=void\ setFechaIngreso(java.util.Date)
+comment4.params=
+comment4.target=Localidad\ getLocalidad()
+comment5.params=localidad
+comment5.target=void\ setLocalidad(Localidad)
+numComments=6

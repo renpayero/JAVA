@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cita()
+comment1.params=
+comment1.target=java.util.Date\ getFecha()
+comment10.params=fecha
+comment10.target=void\ setLugar(Lugar)
+comment2.params=fecha
+comment2.target=void\ setFecha(java.util.Date)
+comment3.params=
+comment3.target=Persona\ getContactoOrigen()
+comment4.params=contacto
+comment4.target=void\ setContactoOrigen(Persona)
+comment5.params=
+comment5.target=Persona\ getContactoDestino()
+comment6.params=contacto
+comment6.target=void\ setContactoDestino(Persona)
+comment7.params=
+comment7.target=int\ getImportancia()
+comment8.params=importancia
+comment8.target=void\ setImportancia(int)
+comment9.params=
+comment9.target=Lugar\ getLugar()
+numComments=11

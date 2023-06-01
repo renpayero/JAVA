@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=peliculas
+comment1.params=monto
+comment1.target=float\ descuento(float)
+comment2.params=monto
+comment2.target=float\ recargo(float)
+comment3.params=cantVecesAlquiladas
+comment3.target=void\ setCantVecesAlquiladas(int)
+comment4.params=
+comment4.target=int\ getCantVecesAlquiladas()
+numComments=5

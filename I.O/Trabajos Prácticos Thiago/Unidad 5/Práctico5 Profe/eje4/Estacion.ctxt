@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ addSurtidor(Surtidor)
+comment1.params=e
+comment1.target=void\ removeSurtidor(Surtidor)
+comment2.params=
+comment2.target=float\ capitalActual()
+comment3.params=cantidad
+comment3.target=java.util.List\ tanquesCombustibleMenorA(int)
+numComments=4

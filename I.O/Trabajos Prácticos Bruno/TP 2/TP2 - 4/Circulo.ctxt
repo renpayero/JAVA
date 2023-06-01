@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=unPunto
+comment1.target=void\ setPunto(Punto)
+comment2.params=unRadio
+comment2.target=void\ setRadio(float)
+comment3.params=unValor
+comment3.target=void\ ampliarRadio(float)
+comment4.params=
+comment4.target=double\ calcularArea()
+comment5.params=unPunto
+comment5.target=void\ trasladarCentro(Punto)
+numComments=6

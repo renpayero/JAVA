@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Parcial
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Parcial\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ n
+comment1.target=Parcial(Auto,\ java.lang.String)
+comment2.params=
+comment2.target=double\ montoAPagar()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EstacionServicio
+comment1.params=
+comment1.target=double\ capitalActual()
+comment2.params=c
+comment2.target=java.util.List\ tanqueConCombustibleMenorA(int)
+comment3.params=p
+comment3.target=void\ incrementarValorCombustible(int)
+numComments=4

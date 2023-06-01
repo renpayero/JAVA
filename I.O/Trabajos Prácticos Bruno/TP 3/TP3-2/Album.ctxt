@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Album
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=unaFoto
+comment2.target=void\ agregarFoto(Foto)
+comment3.params=lista
+comment3.target=void\ agregarFotos(java.util.List)
+comment4.params=unaFoto
+comment4.target=void\ eliminar(Foto)
+comment5.params=
+comment5.target=void\ limpiar()
+comment6.params=
+comment6.target=int\ cantFotos()
+numComments=7

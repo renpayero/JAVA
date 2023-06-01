@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=
+comment1.target=Empleado\ getE()
+comment2.params=E
+comment2.target=void\ setEmpleado(Empleado)
+comment3.params=
+comment3.target=float\ montoTotal()
+comment4.params=E
+comment4.target=void\ agregarEmpleado(Empleado)
+numComments=5

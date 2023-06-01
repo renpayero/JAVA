@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Browser
+comment1.params=p
+comment1.target=void\ setActual(P\u00E1gina)
+comment2.params=p
+comment2.target=void\ agregarP\u00E1ginaHistorial(P\u00E1gina)
+comment3.params=p
+comment3.target=void\ eliminarP\u00E1ginaHistorial(P\u00E1gina)
+comment4.params=
+comment4.target=int\ contarPaginasHistorial()
+comment5.params=
+comment5.target=P\u00E1gina\ retornarUltimaP\u00E1gina()
+comment6.params=uri
+comment6.target=void\ agregarFavoritos(java.lang.String)
+numComments=7

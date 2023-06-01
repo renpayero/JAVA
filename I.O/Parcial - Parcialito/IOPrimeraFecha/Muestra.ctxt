@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Muestra
+comment1.params=tipo\ positivo
+comment1.target=Muestra(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment3.params=tipo
+comment3.target=void\ setTipo(java.lang.String)
+comment4.params=
+comment4.target=boolean\ isPositivo()
+comment5.params=positivo
+comment5.target=void\ setPositivo(boolean)
+numComments=6

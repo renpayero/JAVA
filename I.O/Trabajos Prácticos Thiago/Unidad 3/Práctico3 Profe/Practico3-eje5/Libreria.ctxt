@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Libreria()
+comment1.params=l
+comment1.target=void\ agregarLibro(Libro)
+comment2.params=l
+comment2.target=void\ borrarLibro(Libro)
+comment3.params=
+comment3.target=int\ cantidadLibros()
+comment4.params=
+comment4.target=int\ cantidadTotalDeCopias()
+numComments=5

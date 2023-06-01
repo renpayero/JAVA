@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Centro
+comment1.params=localidad\ nombre
+comment1.target=Centro(Localidad,\ java.lang.String)
+comment10.params=
+comment10.target=int\ cantidadDePacientes()
+comment11.params=paciente
+comment11.target=void\ add(Paciente)
+comment12.params=salas
+comment12.target=void\ salasLlenas(java.util.Vector)
+comment2.params=sala
+comment2.target=void\ agregarSala(Sala)
+comment3.params=sum
+comment3.target=int\ sumarAislamiento(int)
+comment4.params=
+comment4.target=Localidad\ getLocalidad()
+comment5.params=localidad
+comment5.target=void\ setLocalidad(Localidad)
+comment6.params=
+comment6.target=java.lang.String\ getNombre()
+comment7.params=nombre
+comment7.target=void\ setNombre(java.lang.String)
+comment8.params=
+comment8.target=java.util.Vector\ getSalas()
+comment9.params=salas
+comment9.target=void\ setSalas(java.util.Vector)
+numComments=13

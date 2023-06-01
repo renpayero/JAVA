@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vagon()
+comment1.params=pesoEspecifico
+comment1.target=void\ setPesoEspecifico(int)
+comment2.params=
+comment2.target=int\ getPesoEspecifico()
+comment3.params=
+comment3.target=int\ getPesoTotal()
+comment4.params=
+comment4.target=int\ getCantPasajeros()
+comment5.params=velocidad
+comment5.target=float\ disminuirVelocidad(float)
+numComments=6

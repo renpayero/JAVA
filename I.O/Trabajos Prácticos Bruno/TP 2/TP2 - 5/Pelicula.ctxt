@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Pelicula
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pelicula\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=unaPelicula
+comment1.target=void\ setUnaPelicula(Film)
+comment2.params=
+comment2.target=Film\ getUnaPelicula()
+comment3.params=fecha
+comment3.target=void\ setFecha(Fecha)
+comment4.params=
+comment4.target=Fecha\ getFecha()
+comment5.params=unDirecto
+comment5.target=void\ setUnDirector(Director)
+comment6.params=
+comment6.target=Director\ getUnDirector()
+comment7.params=unActor
+comment7.target=void\ setUnActor(Actor)
+comment8.params=
+comment8.target=Actor\ getUnActor()
+numComments=9

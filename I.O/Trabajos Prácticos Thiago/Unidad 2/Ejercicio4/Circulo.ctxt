@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=unValor
+comment1.target=void\ ampliar(int)
+comment2.params=
+comment2.target=void\ area()
+comment3.params=
+comment3.target=Punto\ getCentro()
+comment4.params=centro
+comment4.target=void\ setCentro(Punto)
+comment5.params=unPunto
+comment5.target=void\ trasladarCentro(Punto)
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=float\ getMontoSeguro()
+comment1.params=montoSeguro
+comment1.target=void\ setMontoSeguro(float)
+comment2.params=
+comment2.target=float\ costoTotalAlquiler()
+numComments=3

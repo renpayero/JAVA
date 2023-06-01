@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Libro
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=fechaPublicacion
+comment3.target=void\ setFechaPublicacion(java.util.Date)
+comment4.params=
+comment4.target=java.util.Date\ getFechaPublicacion()
+comment5.params=cantidadDeCopias
+comment5.target=void\ setCantidadDeCopias(int)
+comment6.params=
+comment6.target=int\ getCantidadDeCopias()
+numComments=7

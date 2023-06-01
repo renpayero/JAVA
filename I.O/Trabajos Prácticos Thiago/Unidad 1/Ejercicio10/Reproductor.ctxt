@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Reproductor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Reproductor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ reproducir()
+comment2.params=
+comment2.target=void\ pausar()
+comment3.params=
+comment3.target=void\ siguiente()
+comment4.params=
+comment4.target=void\ anterior()
+comment5.params=
+comment5.target=void\ bajarVol()
+comment6.params=
+comment6.target=void\ subirVol()
+numComments=7

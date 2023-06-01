@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Carpeta
+comment1.params=nombre
+comment1.target=Carpeta(java.lang.String)
+comment2.params=nodo
+comment2.target=void\ insertarNodo(Nodo)
+comment3.params=nodo
+comment3.target=void\ eliminarNodo(Nodo)
+comment4.params=
+comment4.target=java.util.List\ getNodos()
+comment5.params=posicion
+comment5.target=Nodo\ getNodo(int)
+comment6.params=
+comment6.target=void\ mostrar()
+numComments=7

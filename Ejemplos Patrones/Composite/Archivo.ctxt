@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=nombre
+comment1.target=Archivo(java.lang.String)
+comment2.params=
+comment2.target=void\ mostrar()
+numComments=3

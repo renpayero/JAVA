@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Institucion
+comment1.params=localidad
+comment1.target=void\ setLocalidad(Localidad)
+comment2.params=
+comment2.target=Localidad\ getLocalidad()
+comment3.params=tecnico
+comment3.target=void\ addTecnico(Tecnico)
+comment4.params=tecnico
+comment4.target=void\ removeTecnico(Tecnico)
+comment5.params=resultado
+comment5.target=void\ addResultado(Resultado)
+comment6.params=resultado
+comment6.target=void\ removeResultado(Resultado)
+numComments=7

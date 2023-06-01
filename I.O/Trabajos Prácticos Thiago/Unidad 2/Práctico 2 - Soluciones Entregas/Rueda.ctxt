@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rueda()
+comment1.params=marca
+comment1.target=void\ setMarca(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=
+comment3.target=double\ getPresion()
+comment4.params=valor
+comment4.target=void\ inflar(double)
+comment5.params=valor
+comment5.target=void\ desinflar(double)
+numComments=6

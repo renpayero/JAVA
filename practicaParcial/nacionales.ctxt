@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=nacionales
+comment1.params=monto
+comment1.target=float\ recargo(float)
+comment2.params=monto
+comment2.target=float\ descuento(float)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Credito
+comment1.params=precio
+comment1.target=void\ setPrecio(float)
+comment2.params=
+comment2.target=float\ getMonto()
+numComments=3

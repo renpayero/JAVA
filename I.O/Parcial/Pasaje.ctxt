@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pasaje
+comment1.params=unPrecio
+comment1.target=void\ setPrecioBase(double)
+comment2.params=
+comment2.target=double\ getPrecioBase()
+comment3.params=
+comment3.target=double\ getMontoPasajero()
+comment4.params=
+comment4.target=double\ montoTotal()
+comment5.params=
+comment5.target=double\ cantidadPasajeros()
+numComments=6

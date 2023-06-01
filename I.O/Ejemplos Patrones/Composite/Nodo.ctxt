@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=int\ getTipoNodo()
+comment4.params=tipoNodo
+comment4.target=void\ setTipoNodo(int)
+comment5.params=
+comment5.target=void\ mostrar()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Locomotora
+comment0.text=\r\n\ Abstract\ class\ Locomotora\ -\ write\ a\ description\ of\ the\ class\ here\r\n\ \r\n\ @author\:\ \r\n\ Date\:\ \r\n
+comment1.params=peso
+comment1.target=void\ setPeso(int)
+comment2.params=
+comment2.target=int\ getPeso()
+comment3.params=potencia
+comment3.target=void\ setPotencia(int)
+comment4.params=
+comment4.target=int\ getPotencia()
+comment5.params=km
+comment5.target=int\ cantLitrosNecesarios(int)
+numComments=6

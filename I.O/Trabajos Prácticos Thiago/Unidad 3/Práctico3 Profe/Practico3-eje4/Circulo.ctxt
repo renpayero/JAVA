@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=color\ radio
+comment0.target=Circulo(int,\ double)
+comment1.params=
+comment1.target=void\ pintar()
+comment2.params=
+comment2.target=double\ area()
+comment3.params=radio
+comment3.target=void\ setRadio(double)
+comment4.params=
+comment4.target=double\ getRadio()
+numComments=5

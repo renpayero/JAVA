@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cuadrado\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lados
+comment1.target=void\ setLados(int)
+comment2.params=
+comment2.target=int\ getLados()
+comment3.params=base
+comment3.target=void\ setBase(float)
+comment4.params=base
+comment4.target=float\ getBase(float)
+comment5.params=altura
+comment5.target=void\ setAltura(float)
+comment6.params=
+comment6.target=float\ getArea()
+numComments=7

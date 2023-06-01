@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Film
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Film\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=costo
+comment3.target=void\ setCosto(double)
+comment4.params=
+comment4.target=double\ getCosto()
+numComments=5

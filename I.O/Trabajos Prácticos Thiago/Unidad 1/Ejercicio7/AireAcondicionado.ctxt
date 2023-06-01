@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AireAcondicionado
+comment1.params=Temperatura
+comment1.target=void\ SubirTemperatura(int)
+comment2.params=Temperatura
+comment2.target=void\ BajarTemperatura(int)
+comment3.params=
+comment3.target=void\ Prender()
+comment4.params=
+comment4.target=void\ Apagar()
+comment5.params=
+comment5.target=PersonaMantenimiento\ getMantenimiento()
+comment6.params=Mantenimiento
+comment6.target=void\ setMantenimiento(PersonaMantenimiento)
+numComments=7

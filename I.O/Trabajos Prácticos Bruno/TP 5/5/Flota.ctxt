@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Flota
+comment1.params=cliente\ vehiculos
+comment1.target=Flota(Cliente,\ java.util.Vector)
+comment2.params=
+comment2.target=double\ montoAlquilerDe()
+comment3.params=
+comment3.target=double\ montoTotalVehiculo()
+comment4.params=
+comment4.target=int\ totalVehiculosAlquilados()
+numComments=5

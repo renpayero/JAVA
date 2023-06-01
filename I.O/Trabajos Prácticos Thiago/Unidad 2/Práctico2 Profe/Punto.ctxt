@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Punto(int,\ int)
+comment0.text=\n\ Constructor\ defecto\n
+comment1.params=
+comment1.target=Punto()
+comment2.params=unValor
+comment2.target=void\ sumarValor(int)
+comment2.text=\n\ Suma\ el\ mismo\ valor\ a\ x\ e\ y\ \u0301\n
+comment3.params=unPunto
+comment3.target=void\ sumarPunto(Punto)
+comment3.text=\n\ Suma\ las\ coordenas\ x\ y\ las\ coordenas\ y\ \u0301\n
+comment4.params=unPunto
+comment4.target=double\ distanciaDe(Punto)
+comment4.text=\n\ Calcula\ la\ distancia\ por\ Pit\u00E1goras\ \u0301\n
+comment5.params=
+comment5.target=double\ distanciaAlOrigen()
+comment5.text=\n\ Calcula\ la\ distancia\ por\ Pit\u00E1goras\ al\ origen\ \u0301\n\ https\://docs.oracle.com/javase/8/docs/api/java/lang/Math.html\n\ Math.pow(base,\ exp)\n\ Math.sqrt(valor)\n\ System.out.println(Math.pow(5,\ 2));\n
+comment6.params=miX
+comment6.target=void\ setX(int)
+comment7.params=
+comment7.target=int\ getX()
+comment8.params=miY
+comment8.target=void\ setY(int)
+comment9.params=
+comment9.target=int\ getY()
+numComments=10

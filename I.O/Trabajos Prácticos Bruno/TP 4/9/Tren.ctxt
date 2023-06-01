@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tren
+comment1.params=km
+comment1.target=int\ cantLitroNecesarios(int)
+comment2.params=
+comment2.target=int\ pesoTotal()
+comment3.params=vagones
+comment3.target=boolean\ puedeMover(java.util.List)
+comment4.params=vagones
+comment4.target=int\ cantPasajeros(java.util.List)
+comment5.params=vagones
+comment5.target=int\ pesoVagones(java.util.List)
+numComments=6

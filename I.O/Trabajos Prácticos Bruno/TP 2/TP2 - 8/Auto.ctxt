@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Auto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Auto\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=marca
+comment1.target=void\ setMarca(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=modelo
+comment3.target=void\ setModelo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getModelo()
+comment5.params=patente
+comment5.target=void\ setPatente(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getPatente()
+comment7.params=motor
+comment7.target=void\ setPrecio(Motor)
+numComments=8

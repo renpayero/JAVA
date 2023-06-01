@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Contador
+comment1.params=
+comment1.target=void\ iniciar()
+comment2.params=n
+comment2.target=void\ iniciar(int)
+comment3.params=
+comment3.target=void\ sumar()
+comment4.params=n
+comment4.target=void\ sumar(int)
+comment5.params=
+comment5.target=void\ restar()
+comment6.params=n
+comment6.target=void\ restar(int)
+numComments=7

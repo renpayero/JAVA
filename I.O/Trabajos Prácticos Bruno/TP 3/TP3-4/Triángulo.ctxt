@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tri\u00E1ngulo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tri\u00E1ngulo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=base
+comment1.target=void\ setBase(float)
+comment2.params=base
+comment2.target=float\ getBase(float)
+comment3.params=altura
+comment3.target=void\ setAltura(float)
+comment4.params=
+comment4.target=float\ getArea()
+numComments=5

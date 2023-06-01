@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Filme()
+comment1.params=p
+comment1.target=void\ addPersonaje(Personaje)
+comment2.params=p
+comment2.target=void\ removePersonaje(Personaje)
+comment3.params=
+comment3.target=Director\ getDirector()
+comment4.params=director
+comment4.target=void\ setDirector(Director)
+comment5.params=
+comment5.target=java.lang.String\ getDescripcion()
+comment6.params=descripcion
+comment6.target=void\ setDescripcion(java.lang.String)
+numComments=7

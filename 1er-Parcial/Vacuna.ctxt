@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vacuna
+comment1.params=
+comment1.target=Vacuna()
+comment2.params=p
+comment2.target=void\ setPersona(Persona)
+comment3.params=l
+comment3.target=void\ setLaboratorio(Laboratorio)
+comment4.params=
+comment4.target=int\ cantidadComponentes()
+numComments=5

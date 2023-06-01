@@ -1,0 +1,30 @@
+title Diagrama de secuencias del AireAcondicionado
+
+Juan->+ControlRemoto:encender()
+ControlRemoto->+AireAcondicionado:encender()
+AireAcondicionado-->-ControlRemoto:
+ControlRemoto-->-Juan:
+
+Juan->+ControlRemoto:activarModo(FRIO)
+ControlRemoto->+AireAcondicionado:modoFrio()
+AireAcondicionado-->-ControlRemoto:
+ControlRemoto-->-Juan:
+
+Juan->+ControlRemoto:temperaturaActual()
+ControlRemoto->+AireAcondicionado:temperaturaActual()
+AireAcondicionado-->-ControlRemoto:25
+ControlRemoto-->-Juan:25
+
+loop Hasta llegar temperatura deseada
+    Juan->+ControlRemoto:decrementarTemperatura()
+    ControlRemoto->+AireAcondicionado:decrementarTemperatura()
+    AireAcondicionado-->-ControlRemoto:
+    ControlRemoto-->-Juan:
+end
+
+Juan->+ControlRemoto:apagar()
+ControlRemoto->+AireAcondicionado:apagar()
+AireAcondicionado-->-ControlRemoto:
+ControlRemoto-->-Juan:
+
+

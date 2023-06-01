@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Adaptador
+comment1.params=
+comment1.target=Adaptador()
+comment2.params=
+comment2.target=double\ getSaldo()
+comment3.params=pesos
+comment3.target=void\ sacarPesos(double)
+comment4.params=pesos
+comment4.target=void\ ingresarPesos(double)
+numComments=5

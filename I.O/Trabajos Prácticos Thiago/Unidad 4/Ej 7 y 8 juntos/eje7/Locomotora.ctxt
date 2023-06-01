@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=velocidadMaxima\ potencia
+comment0.target=Locomotora(float,\ int)
+comment1.params=potencia
+comment1.target=void\ setPotencia(int)
+comment2.params=
+comment2.target=int\ getPotencia()
+comment3.params=velocidadMaxima
+comment3.target=void\ setVelocidadMaxima(float)
+comment4.params=
+comment4.target=float\ getVelocidadMaxima()
+comment5.params=pesoEspecifico
+comment5.target=void\ setPesoEspecifico(int)
+comment6.params=
+comment6.target=int\ getPesoEspecifico()
+comment7.params=km
+comment7.target=int\ cantidadDeLitrosNecesarios(int)
+comment8.params=
+comment8.target=int\ getConsumo()
+numComments=9

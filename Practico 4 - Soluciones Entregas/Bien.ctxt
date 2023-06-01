@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bien
+comment1.params=
+comment1.target=int\ getNroIdentificacion()
+comment2.params=nroIdentificacion
+comment2.target=void\ setNroIdentificacion(int)
+comment3.params=
+comment3.target=float\ getValorFiscal()
+comment4.params=valorFiscal
+comment4.target=void\ setValorFiscal(float)
+comment5.params=
+comment5.target=java.lang.String\ getTitular()
+comment6.params=titular
+comment6.target=void\ setTitular(java.lang.String)
+comment7.params=
+comment7.target=float\ monto()
+numComments=8

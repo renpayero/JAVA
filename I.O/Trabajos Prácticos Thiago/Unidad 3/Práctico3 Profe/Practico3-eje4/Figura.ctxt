@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=color
+comment0.target=Figura(int)
+comment1.params=color
+comment1.target=void\ setColor(int)
+comment2.params=
+comment2.target=int\ getColor()
+comment3.params=
+comment3.target=void\ pintar()
+comment4.params=
+comment4.target=double\ area()
+comment4.text=\n\ signature\:\ alcance\ tipo/void\ nombre_funcion(tipo1\ parm1,\ tipo2\ param2,...)\ \n
+numComments=5

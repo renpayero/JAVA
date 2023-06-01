@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CuentaBancaria
+comment1.params=saldo
+comment1.target=void\ setSaldo(double)
+comment2.params=
+comment2.target=double\ getSaldo()
+comment3.params=titular
+comment3.target=void\ setTitular(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTitular()
+comment5.params=unMonto
+comment5.target=void\ extraer(double)
+comment6.params=unMonto
+comment6.target=void\ depositar(double)
+comment7.params=unaTransaccion
+comment7.target=void\ agregarTransaccion(Transaccion)
+numComments=8

@@ -1,0 +1,10 @@
+
+
+
+mira en io me tomaron, patrones, ventajas y desventajas de los patrones en general
+
+
+y el patron composite, con sus ventajas y desventajas
+
+
+y los ejercicios, me tomaron el del TP5 Ejercicio 5

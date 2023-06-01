@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Aislamiento
+comment1.params=localidad\ nombre
+comment1.target=Aislamiento(Localidad,\ java.lang.String)
+comment2.params=sum
+comment2.target=int\ sumarAislamiento(int)
+numComments=3

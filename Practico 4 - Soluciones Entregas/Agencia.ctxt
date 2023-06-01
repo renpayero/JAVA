@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Agencia
+comment1.params=bien
+comment1.target=void\ agregarCobroAnual(Bien)
+comment2.params=cobro
+comment2.target=float\ valorCobro(Cobro)
+comment3.params=
+comment3.target=float\ sumaCobros()
+comment4.params=
+comment4.target=Cobro\ cobroMayor()
+comment5.params=valor
+comment5.target=java.util.Vector\ cobroMayoresA(float)
+comment6.params=
+comment6.target=float\ valorFiscal()
+numComments=7

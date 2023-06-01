@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=float\ montoTotalAsegurado()
+comment1.params=
+comment1.target=float\ montoTotalACobrar()
+comment2.params=
+comment2.target=int\ cantidadPolizas()
+numComments=3

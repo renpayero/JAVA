@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Alquiler
+comment1.params=fecha
+comment1.target=void\ setFecha(java.util.Date)
+comment2.params=
+comment2.target=java.util.Date\ getFecha()
+comment3.params=
+comment3.target=double\ montoAlquilerDe()
+comment4.params=
+comment4.target=double\ montoTotalVehiculo()
+comment5.params=
+comment5.target=int\ totalVehiculosAlquilados()
+numComments=6

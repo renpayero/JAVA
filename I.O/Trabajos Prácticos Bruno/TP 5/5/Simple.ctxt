@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Simple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Simple\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cliente\ vehiculo
+comment1.target=Simple(Cliente,\ Vehiculo)
+comment2.params=
+comment2.target=double\ montoAlquilerDe()
+comment3.params=
+comment3.target=double\ montoTotalVehiculo()
+comment4.params=
+comment4.target=int\ totalVehiculosAlquilados()
+numComments=5

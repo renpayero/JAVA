@@ -1,0 +1,38 @@
+
+/**
+ * Write a description of class Auto here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Auto
+{
+    // instance variables - replace the example below with your own
+    private int x;
+    private Volante volante;
+    private Rueda ruedas;
+    private Motor motor;
+    private Asiento asientos;
+    private Puerta puertas;
+    
+    /**
+     * Constructor for objects of class Auto
+     */
+    public Auto()
+    {
+        // initialise instance variables
+        x = 0;
+    }
+
+    /**
+     * An example of a method - replace this comment with your own
+     * 
+     * @param  y   a sample parameter for a method
+     * @return     the sum of x and y 
+     */
+    public int sampleMethod(int y)
+    {
+        // put your code here
+        return x + y;
+    }
+}

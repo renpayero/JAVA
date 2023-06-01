@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=monto
+comment0.target=Tecnico(double)
+comment1.params=e
+comment1.target=double\ calcularSalario(Empleado)
+comment2.params=monto
+comment2.target=void\ setMonto(double)
+comment3.params=
+comment3.target=double\ getMonto()
+numComments=4

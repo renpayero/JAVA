@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.Date\ getFecha()
+comment1.params=fecha
+comment1.target=void\ setFecha(java.util.Date)
+comment2.params=
+comment2.target=float\ costoTotalAlquiler()
+comment3.params=
+comment3.target=float\ costoTotalVehiculo()
+comment4.params=
+comment4.target=float\ totalVehiculo()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pasajero()
+comment1.params=cantidad
+comment1.target=void\ setCantPasajeros(int)
+comment2.params=
+comment2.target=int\ getCantPasajeros()
+comment3.params=
+comment3.target=int\ getPesoTotal()
+comment4.params=velocidad
+comment4.target=float\ disminuirVelocidad(float)
+numComments=5

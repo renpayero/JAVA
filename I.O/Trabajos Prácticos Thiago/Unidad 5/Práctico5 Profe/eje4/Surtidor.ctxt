@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=float\ getPrecioBasico()
+comment1.params=precioBasico
+comment1.target=void\ setPrecioBasico(float)
+comment2.params=litros
+comment2.target=float\ montoACobrar(int)
+comment3.params=
+comment3.target=float\ precioTotal()
+numComments=4

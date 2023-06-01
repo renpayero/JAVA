@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=miCentro\ miRadio
+comment0.target=Circulo(Punto,\ double)
+comment1.params=unValor
+comment1.target=void\ ampliar(int)
+comment1.text=\n\ Amplia\ el\ valor\ del\ radio\ seg\u00FAn\ el\ par\u00E1metro\n
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\n\ Calcular\ el\ area\n\ Math.PI\n
+comment3.params=x\ y
+comment3.target=void\ trasladar(int,\ int)
+comment3.text=\n\ Traslada\ al\ c\u00EDrculo\ seg\u00FAn\ los\ valores\n
+comment4.params=p
+comment4.target=void\ trasladar(Punto)
+numComments=5

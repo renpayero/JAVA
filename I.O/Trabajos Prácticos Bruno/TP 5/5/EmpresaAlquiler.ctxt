@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=EmpresaAlquiler
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment10.params=
+comment10.target=int\ totalVehiculosAlquilados()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=direccion
+comment3.target=void\ setDireccion(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDireccion()
+comment5.params=cliente\ vehiculo
+comment5.target=void\ registrarAlquiler(Cliente,\ Vehiculo)
+comment6.params=cliente\ vehiculos
+comment6.target=void\ registrarAlquiler(Cliente,\ java.util.Vector)
+comment7.params=alquiler
+comment7.target=double\ montoAlquilerDe(Alquiler)
+comment8.params=
+comment8.target=double\ montoTotalALquileres()
+comment9.params=
+comment9.target=double\ montoTotalVehiculos()
+numComments=11

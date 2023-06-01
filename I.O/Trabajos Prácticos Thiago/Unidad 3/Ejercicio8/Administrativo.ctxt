@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Administrativo
+comment1.params=anio
+comment1.target=void\ setAnio(int)
+comment2.params=categoria
+comment2.target=void\ setCategoria(int)
+comment3.params=
+comment3.target=float\ sueldo()
+numComments=4

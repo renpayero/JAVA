@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cobro
+comment1.params=
+comment1.target=java.util.Date\ getFecha()
+comment2.params=fecha
+comment2.target=void\ setFecha(java.util.Date)
+comment3.params=
+comment3.target=Bien\ getBien()
+comment4.params=bien
+comment4.target=void\ setBien(Bien)
+comment5.params=
+comment5.target=float\ getValorFiscal()
+comment6.params=
+comment6.target=float\ monto()
+numComments=7

@@ -1,0 +1,11 @@
+A- Smalltak es un lenguaje reflexivo de programación, orientado a objetos y con tipado dinámico. Además, por sus características, puede ser considerado también como un entorno de objetos, donde incluso el propio sistema es un objeto.
+Un sistema Smalltak está compuesto por:
+	. Una máquina virtual.
+	. Un archivo llamado "imagen", que contiene todos los objetos del sistema.
+	. Un lenguaje de programación(también conocido por Smalltak).
+	. Una enorme biblioteca de "objetos reusables".
+	. Y generalmente, un entorno de desarrollo que además puede funcionar como un sistema en tiempo de ejecución.
+
+B- Los principales lenguajes de programación orientados a objetos son:
+
+Ada, C++, C#, VB.NET, Clarion, Delphi, Eiffel, Java, Lexico (en castellano), Objective-C, Ocaml, Oz, PHP, PowerBuilder, Python, Ruby y Smalltalk.

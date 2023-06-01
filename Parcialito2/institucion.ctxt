@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=institucion
+comment1.params=enfermeros
+comment1.target=void\ setEnfermeros(persona)
+comment2.params=
+comment2.target=java.util.ArrayList\ getEnfermeros()
+comment3.params=localidad
+comment3.target=void\ setLocalidad(localidad)
+comment4.params=localiadad
+comment4.target=localidad\ getLocalidad(localidad)
+comment5.params=vacunasAplicadas
+comment5.target=void\ agregarVacunaAplicada(vacuna)
+numComments=6

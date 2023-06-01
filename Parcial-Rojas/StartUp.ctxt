@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StartUp
+comment1.params=unJuego
+comment1.target=void\ agregarJuego(Juego)
+comment1.text=Agrega\ un\ juego\ a\ la\ plataforma
+comment2.params=
+comment2.target=float\ montoTotalVentas()
+comment2.text=Retorna\ monto\ total\ de\ las\ ventas\ realizadas\ hasta\ el\ momento
+comment3.params=
+comment3.target=float\ promedioDeJuegos()
+comment3.text=Retorna\ el\ promedio\ de\ juegos\ en\ la\ bibloteca\ de\ los\ jugadores
+numComments=4

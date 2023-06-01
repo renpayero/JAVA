@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UnObservador
+comment1.params=nombre
+comment1.target=UnObservador(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=void\ observadoActualizado()
+numComments=5

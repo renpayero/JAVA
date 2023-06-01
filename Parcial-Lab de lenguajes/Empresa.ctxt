@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=unJuego
+comment1.target=void\ agregarJuego(Juego)
+comment2.params=juegos
+comment2.target=void\ agregarVariosJuegos(java.util.ArrayList)
+comment3.params=
+comment3.target=float\ montoTotalVentas()
+comment4.params=
+comment4.target=float\ promedioDeJuegos()
+comment5.params=juegos\ usuario\ medioDePago
+comment5.target=void\ nuevaVenta(java.util.ArrayList,\ Usuario,\ medioDePago)
+numComments=6

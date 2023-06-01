@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=
+comment1.target=double\ tiempo()
+comment2.params=persona\ fecha
+comment2.target=Test(Persona,\ java.util.Date)
+comment3.params=
+comment3.target=java.util.Date\ getFecha()
+comment4.params=fecha
+comment4.target=void\ setFecha(java.util.Date)
+comment5.params=
+comment5.target=Persona\ getPersona()
+comment6.params=persona
+comment6.target=void\ setPersona(Persona)
+comment7.params=valor
+comment7.target=int\ sumarSerologico(int)
+numComments=8

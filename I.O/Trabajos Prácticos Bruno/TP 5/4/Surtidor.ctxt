@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Surtidor
+comment1.params=l
+comment1.target=double\ montoACobrar(int)
+comment2.params=p
+comment2.target=double\ recargo(double)
+comment3.params=
+comment3.target=double\ capitalActual()
+comment4.params=p
+comment4.target=void\ incrementarPrecio(int)
+comment5.params=c\ lista
+comment5.target=void\ tanqueCombustibleMenorA(int,\ java.util.List)
+numComments=6

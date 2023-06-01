@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CuentaBancaria
+comment1.params=unMonto
+comment1.target=void\ extraer(double)
+comment2.params=unMonto
+comment2.target=void\ depositar(double)
+comment3.params=
+comment3.target=double\ saldo()
+comment4.params=
+comment4.target=Persona\ getTitular()
+comment5.params=unTitular
+comment5.target=void\ setTitular(Persona)
+numComments=6

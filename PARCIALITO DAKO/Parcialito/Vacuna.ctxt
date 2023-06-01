@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vacuna
+comment1.params=lote
+comment1.target=void\ setLote(int)
+comment10.params=
+comment10.target=java.lang.String\ getComponentes()
+comment2.params=
+comment2.target=int\ getLote()
+comment3.params=fechaPartida
+comment3.target=void\ setFechaPartida(java.util.Date)
+comment4.params=
+comment4.target=java.util.Date\ getFechaPartida()
+comment5.params=fechaElaboracion
+comment5.target=void\ setFechaElaboracion(java.util.Date)
+comment6.params=
+comment6.target=java.util.Date\ getFechaElaboracion()
+comment7.params=laboratorio
+comment7.target=void\ setLaboratorio(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getLaboratorio()
+comment9.params=componentes
+comment9.target=void\ setComponentes(java.lang.String)
+numComments=11

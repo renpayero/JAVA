@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Intensivo
+comment1.params=localidad\ nombre
+comment1.target=Intensivo(Localidad,\ java.lang.String)
+comment2.params=medico
+comment2.target=void\ add(Medico)
+comment3.params=
+comment3.target=java.util.Vector\ getMedicos()
+comment4.params=medicos
+comment4.target=void\ setMedicos(java.util.Vector)
+numComments=5

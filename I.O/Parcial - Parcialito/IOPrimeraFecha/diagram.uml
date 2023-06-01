@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="378.5" y="430.0">Resultado</node>
+    <node x="486.21253501400565" y="231.0">Institucion</node>
+    <node x="427.53693977591035" y="661.0">Malbran</node>
+    <node x="134.5" y="0.0">Persona</node>
+    <node x="212.6211484593838" y="242.0">Test</node>
+    <node x="571.2125350140057" y="33.0">Localidad</node>
+    <node x="21.5" y="484.0">TestBasico</node>
+    <node x="198.5" y="484.0">TestRapido</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Malbran" target="Resultado">
+      <point x="-42.18749999999997" y="-69.5" />
+      <point x="497.84943977591035" y="621.0" />
+      <point x="419.1666666666667" y="621.0" />
+      <point x="-81.33333333333331" y="80.5" />
+    </edge>
+    <edge source="Institucion" target="Resultado">
+      <point x="0.0" y="69.5" />
+      <point x="590.2125350140057" y="410.0" />
+      <point x="602.1666666666666" y="410.0" />
+      <point x="101.66666666666663" y="-80.5" />
+    </edge>
+    <edge source="TestBasico" target="Persona">
+      <point x="-52.33333333333337" y="-26.5" />
+      <point x="47.66666666666663" y="410.0" />
+      <point x="53.39600840336135" y="410.0" />
+      <point x="53.39600840336135" y="201.0" />
+      <point x="208.5625" y="201.0" />
+      <point x="-44.4375" y="80.5" />
+    </edge>
+    <edge source="TestBasico" target="Test">
+      <point x="52.333333333333314" y="-26.5" />
+      <point x="152.33333333333331" y="410.0" />
+      <point x="250.8711484593838" y="410.0" />
+      <point x="-38.25" y="58.5" />
+    </edge>
+    <edge source="Resultado" target="Test">
+      <point x="-101.66666666666663" y="-80.5" />
+      <point x="398.83333333333337" y="400.0" />
+      <point x="327.3711484593838" y="400.0" />
+      <point x="38.25" y="58.5" />
+    </edge>
+    <edge source="Institucion" target="Persona">
+      <point x="-77.99999999999997" y="-69.5" />
+      <point x="512.2125350140057" y="201.0" />
+      <point x="327.0625" y="201.0" />
+      <point x="74.06250000000003" y="80.5" />
+    </edge>
+    <edge source="Institucion" target="Localidad">
+      <point x="78.00000000000003" y="-69.5" />
+      <point x="668.2125350140057" y="211.0" />
+      <point x="677.7125350140057" y="211.0" />
+      <point x="35.5" y="47.5" />
+    </edge>
+    <edge source="Test" target="Persona">
+      <point x="-38.25" y="-58.5" />
+      <point x="250.8711484593838" y="211.0" />
+      <point x="267.8125" y="211.0" />
+      <point x="14.8125" y="80.5" />
+    </edge>
+    <edge source="Malbran" target="Persona">
+      <point x="-70.31249999999997" y="-69.5" />
+      <point x="469.72443977591035" y="631.0" />
+      <point x="11.0" y="631.0" />
+      <point x="11.0" y="191.0" />
+      <point x="178.9375" y="191.0" />
+      <point x="-74.0625" y="80.5" />
+    </edge>
+    <edge source="TestRapido" target="Persona">
+      <point x="-53.33333333333337" y="-26.5" />
+      <point x="225.16666666666663" y="390.0" />
+      <point x="202.1211484593838" y="390.0" />
+      <point x="202.1211484593838" y="211.0" />
+      <point x="238.1875" y="211.0" />
+      <point x="-14.8125" y="80.5" />
+    </edge>
+    <edge source="Resultado" target="Institucion">
+      <point x="-20.33333333333337" y="-80.5" />
+      <point x="480.16666666666663" y="410.0" />
+      <point x="501.06967787114854" y="410.0" />
+      <point x="-89.14285714285714" y="69.5" />
+    </edge>
+    <edge source="Malbran" target="Institucion">
+      <point x="98.4375" y="-69.5" />
+      <point x="638.4744397759104" y="641.0" />
+      <point x="655.0" y="641.0" />
+      <point x="655.0" y="410.0" />
+      <point x="679.3553921568628" y="410.0" />
+      <point x="89.14285714285711" y="69.5" />
+    </edge>
+    <edge source="TestRapido" target="Test">
+      <point x="53.33333333333337" y="-26.5" />
+      <point x="331.83333333333337" y="410.0" />
+      <point x="301.8711484593838" y="410.0" />
+      <point x="12.75" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="405.0" y="384.5" />
+  <SelectedNodes>
+    <node>Resultado</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

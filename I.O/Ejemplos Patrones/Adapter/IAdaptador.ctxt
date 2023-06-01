@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IAdaptador
+comment1.params=pesos
+comment1.target=void\ sacarPesos(double)
+comment2.params=pesos
+comment2.target=void\ ingresarPesos(double)
+numComments=3

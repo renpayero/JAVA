@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=moto
+comment0.target=float\ montoAPagarBien(Moto)
+comment1.params=auto
+comment1.target=float\ montoAPagarBien(Auto)
+comment2.params=inmueble
+comment2.target=float\ montoAPagarBien(Inmueble)
+comment3.params=embarcacion
+comment3.target=float\ montoAPagarBien(Embarcacion)
+comment4.params=
+comment4.target=int\ getPorcentajeVariable()
+comment5.params=porcentajeVariable
+comment5.target=void\ setPorcentajeVariable(int)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=categoria
+comment0.target=Administrativo(int)
+comment1.params=e
+comment1.target=double\ calcularSalario(Empleado)
+comment2.params=categoria
+comment2.target=void\ setCategoria(int)
+comment3.params=
+comment3.target=int\ getCategoria()
+numComments=4

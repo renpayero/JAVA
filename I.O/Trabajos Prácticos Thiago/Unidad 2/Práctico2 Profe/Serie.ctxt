@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Serie()
+comment1.params=c
+comment1.target=void\ addCapitulo(Capitulo)
+comment2.params=c
+comment2.target=void\ removeCapitulo(Capitulo)
+comment3.params=
+comment3.target=int\ cantidadCapitulos()
+numComments=4

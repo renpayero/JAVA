@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pagina
+comment1.params=direccion
+comment1.target=void\ setDireccion(java.lang.String)
+comment2.params=FechaVisita
+comment2.target=void\ setFechaVisita(int)
+comment3.params=codigo
+comment3.target=void\ setCodigo(java.lang.String)
+comment4.params=tamanio
+comment4.target=void\ setTamanio(int)
+numComments=5

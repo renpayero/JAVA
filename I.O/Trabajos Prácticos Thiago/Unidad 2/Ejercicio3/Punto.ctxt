@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=unValor
+comment1.target=void\ sumarValor(int)
+comment2.params=unPunto
+comment2.target=void\ sumarPunto(Punto)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=unValor
+comment5.target=void\ setX(int)
+comment6.params=unValor
+comment6.target=void\ setY(int)
+comment7.params=unPunto
+comment7.target=void\ distanciaDe(Punto)
+comment8.params=
+comment8.target=void\ distanciaOrigen()
+numComments=9

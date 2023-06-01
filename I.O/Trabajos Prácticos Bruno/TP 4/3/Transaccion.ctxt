@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Transaccion
+comment1.params=fecha\ monto\ tipo
+comment1.target=Transaccion(java.util.Date,\ double,\ int)
+numComments=2
